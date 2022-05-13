@@ -1,5 +1,5 @@
 
-v## Swot Analysis
+## Swot Analysis
  #### Advantage
  * Provide clear vision to driver in rainy season
  * Help to remove dust and water from wind shield
@@ -10,16 +10,7 @@ v## Swot Analysis
  * changing of wiper quarterly
  * Not fully automatic
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
  
 ### 4'W and 1'H
 ##### What 
