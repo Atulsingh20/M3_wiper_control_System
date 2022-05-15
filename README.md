@@ -22,3 +22,11 @@ The automotive industry has spent the last two decades vigorously researching wa
 * while the button is pressed again for 2 sec than the Red lED stop glowing and indicate that the system is off.
 # SIMULATION
 Driving a vehicle is complicated in harsh weather condition without using glass wiper system. Controlling the wiper speed based on the change in weather condition is one of the research area in automotive industries now a day. Recently, the wiper speed is adjusted manually controlled by the driver. Dc motors are used to drive the wiper system based on feed forward techniques. In this paper a separately excited Dc motor is designed and controlled using robust control method to improve the feed forward wiper system performance.
+# Test Case
+### Table
+| Test ID | Description | Exp I/P| Exp O/P|Test case
+| --- | --- | --- | ---- |-----|
+| T_01 |Ignition key at ACC |User button is pressed & held for 2 sec| Red Led is ON |Pass|
+| T_02| Wiper is ON| User button is Pressed | Blue,Green & Orange led is ON |Pass|
+| T_03 | Wiper is OFF|  User button is Pressed| Blue,Green & Orange led is OFF |Pass|
+| T_04|Igintion key at lock |User button is pressed & held for 2 se| Red Led is OFF|Pass|\
