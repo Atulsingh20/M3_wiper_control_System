@@ -1,4 +1,4 @@
-## Introduction
+## REQUIREMENT
 The use of transportation vehicles has expanded dramatically over the world in recent years. As a result, it is critical to strengthen the safety features of automobiles. It is critical to conduct a survey and study to detail the automatic operated wiper in order to achieve and meet the above notion. Windshield Wipers are essential for ensuring the driver's safety while driving. As a result, the goal is to build a system that controls an automatic operated wiper that is controlled by an electronic sensor. We explore numerous sorts of sensors used in wiper automation in the research paper.
 
 ## Swot Analysis
