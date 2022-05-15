@@ -1,4 +1,8 @@
-# M3_wiper_control_System
+## Code Quality & Code Grade
+![Code Quality Score](https://api.codiga.io/project/33567/score/svg) ![Code Grade](https://api.codiga.io/project/33567/status/svg) ![Codacy Badge]([![Codacy Badge](https://app.codacy.com/project/badge/Grade/3c69e6b9cc8941468784ec8efa6dfea6)](https://www.codacy.com/gh/Atulsingh20/M3_wiper_controller/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Atulsingh20/M3_wiper_controller&amp;utm_campaign=Badge_Grade)) [![Codacy Security Scan](https://github.com/Atulsingh20/M2_CAR_TEMPERATURE_CONTROL/actions/workflows/codacy.yml/badge.svg)](https://github.com/Atulsingh20/M2_CAR_TEMPERATURE_CONTROL/actions/workflows/codacy.yml)
+
+# CAR TEMPERATURE CONTROL
+\# M3_wiper_control_System
 # INTRODUCTION
 The automotive industry has spent the last two decades vigorously researching ways to use modern computing and electronic improvements in the development of vehicle safety, dependability, and entertainment technology. With a growing number of distractions, automated rain-sensing wiper systems become an even more tempting feature, as they attempt to reduce the amount of time the driver has take his or her hands off the wheel. Most classic systems can operate at both intermittent and variable speeds. The typical wiper system, on the other hand, necessitates constant driver attention when altering the wiper speed. Traditional windshield wiper speed changes with the passage of time and the speed of the vehicle. Because manual wiper adjustment diverts the driver's attention, it may be a direct cause of accidents. 
 # OBJECTIVE OF THE PROJECT
