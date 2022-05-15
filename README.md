@@ -1,5 +1,5 @@
 ## Code Quality & Code Grade
-![Code Quality Score](https://api.codiga.io/project/33567/score/svg) ![Code Grade](https://api.codiga.io/project/33567/status/svg) ![Codacy Badge](https://app.codacy.com/project/badge/Grade/3c69e6b9cc8941468784ec8efa6dfea6)](https://www.codacy.com/gh/Atulsingh20/M3_wiper_controller/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Atulsingh20/M3_wiper_controller&amp;utm_campaign=Badge_Grade)) [![Codacy Security Scan](https://github.com/Atulsingh20/M2_CAR_TEMPERATURE_CONTROL/actions/workflows/codacy.yml/badge.svg)](https://github.com/Atulsingh20/M2_CAR_TEMPERATURE_CONTROL/actions/workflows/codacy.yml)
+![Code Quality Score](https://api.codiga.io/project/33567/score/svg) ![Code Grade](https://api.codiga.io/project/33567/status/svg) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3c69e6b9cc8941468784ec8efa6dfea6)](https://www.codacy.com/gh/Atulsingh20/M3_wiper_controller/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Atulsingh20/M3_wiper_controller&amp;utm_campaign=Badge_Grade) [![Codacy Security Scan](https://github.com/Atulsingh20/M2_CAR_TEMPERATURE_CONTROL/actions/workflows/codacy.yml/badge.svg)](https://github.com/Atulsingh20/M2_CAR_TEMPERATURE_CONTROL/actions/workflows/codacy.yml)
 
 # CAR TEMPERATURE CONTROL
 \# M3_wiper_control_System
